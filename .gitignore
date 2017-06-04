@@ -1,0 +1,17 @@
+# Compiled Python Bytecode
+*.pyc
+*.pyo
+
+# OS & Temp Files
+.DS_Store
+.DS_Store?
+._*
+.Trashes
+*~
+
+# Database Files
+*.sqlite
+
+# Virtual Environments
+sandbox*/
+venv*/
